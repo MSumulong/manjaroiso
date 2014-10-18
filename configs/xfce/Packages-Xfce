@@ -5,7 +5,9 @@ ffmpegthumbnailer
 gconf # fix qt-theme
 gnome-keyring # fix wlan segfault
 gufw # firewall
-mdm-themes
+#mdm-themes
+lightdm-gtk2-greeter
+lightdm-gtk-greeter-settings
 manjaro-settings-manager
 menulibre
 network-manager-applet
@@ -120,7 +122,7 @@ xorg-xinit
 ## Artwork
 faenza-green-icon-theme
 gtk-theme-ceti
-gtk-theme-menda
+menda-themes
 manjaro-artwork
 lxdm-manjaro-theme
 xfce-theme-greenbird
@@ -155,7 +157,8 @@ steam-native
 
 ## Fonts
 ttf-dejavu
-adobe-source-sans-pro-fonts
+#adobe-source-sans-pro-fonts
+cantarell-fonts
 
 ## Java
 icedtea-web
