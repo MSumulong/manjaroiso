@@ -6,6 +6,7 @@ gconf # fix qt-theme
 gnome-keyring # fix wlan segfault
 gufw # firewall
 #mdm-themes
+accountsservice
 lightdm-gtk2-greeter
 lightdm-gtk-greeter-settings
 manjaro-settings-manager
