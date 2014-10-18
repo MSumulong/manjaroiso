@@ -148,7 +148,7 @@ pulseaudio-ctl
 
 ## Package management
 #octopi
-lxpolkit
+lxsession
 pamac
 
 ## Games
